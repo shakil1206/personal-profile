@@ -1,10 +1,10 @@
 var profile =[
     {
       "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
+      "name": "Shakil Ahmed",
+      "username": "Shakil1206",
       "email": "Sincere@april.biz",
-      "img":"https://image.shutterstock.com/image-photo/portrait-smiling-red-haired-millennial-260nw-1194497251.jpg",
+      "img":"https://scontent.fdac5-1.fna.fbcdn.net/v/t1.0-9/p960x960/38508302_1017981181715611_3688558565670256640_o.jpg?_nc_cat=100&_nc_sid=85a577&_nc_ohc=NnsFmBOM9QwAX_M5BNx&_nc_ht=scontent.fdac5-1.fna&_nc_tp=6&oh=b83164b62a445fbf05dd3bcce38143ed&oe=5E8F5996",
       "Salary":"50000",
       "address": {
         "street": "Kulas Light",
@@ -425,3 +425,5 @@ var profile =[
         }
       }
   ]
+
+  export default profile;

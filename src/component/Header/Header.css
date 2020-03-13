@@ -1,0 +1,25 @@
+.Header{
+    text-align: center;
+}
+
+.navBar{
+    background-color: gray;
+    line-height: 40px;
+}
+
+.Logo img{
+    height: 150px;
+}
+.navBar a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    font-weight: 700;
+    font-size: large;
+    padding: 10px;
+    
+}
+.navBar a:hover{
+    background-color: white;
+    color: black;
+}

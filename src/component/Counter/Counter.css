@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    box-shadow: 5px 5px 5px lightgray;
+    height: 1000px;
+    width: 330px;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.container p{
+    text-align: left;
+}

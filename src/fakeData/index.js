@@ -1,6 +1,6 @@
-import profileDetails from './profileDetails'
+import profileDetail from './profileDetails';
 
-const fakeData = [...profileDetails];
+const fakeData = [...profileDetail];
 
 const shuffle = a => {
     for (let i = a.length; i; i--) {

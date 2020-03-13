@@ -1,0 +1,41 @@
+.main-container{
+    display: flex;
+    box-shadow: 5px 5px 5px lightgray;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    padding: 20px;
+
+}
+
+.image-container img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+.image-container{
+    padding: 20px;
+}
+
+.margin{
+    width: 600px;
+}
+
+.margin-right{
+    padding-left: 10px;
+}
+
+
+.button-style{
+    background-image: linear-gradient(lightgray,gray,black);
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+    border: 1px solid gray;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 400;
+}
